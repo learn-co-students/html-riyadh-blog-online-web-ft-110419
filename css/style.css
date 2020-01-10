@@ -43,7 +43,16 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #fff;
 }
+
+h4 {
+  font-family: 'Gabriela', serif;
+  font-size: 1.5em;
+  margin-top: .5em;
+  color: #000;
+}
+
 
 img {
   max-width: 100%;
